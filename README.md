@@ -91,11 +91,11 @@ Planned additions include:
 
 ## License
 
-MIT License  
-Free to use, modify, and distribute.
+This project is liscensed under the GNU General Public License v3.0
+
 
 ---
 
 ## About Fuego Technology
 
-JSGPU is developed by **Fuego Technology** with a focus on pushing browser-based games to their practical performance limits — without misleading claims or unsafe hacks.
+JSGPU is developed by **Fuego Technology** with a focus on pushing the browser to their practical performance limits using client-side technologies. For more info, check out https://github.com/fuegotechnology/about
