@@ -53,7 +53,8 @@ JSGPU addresses these issues by applying best-practice optimizations in a reusab
 - Browser ports of desktop games  
 - TeaVM or WebAssembly-based engines  
 - Performance-sensitive HTML games  
-- Projects similar to Eaglercraft  
+- Projects similar to Eaglercraft
+- Play games on low end devices like ChromeBooks.
 
 ---
 
